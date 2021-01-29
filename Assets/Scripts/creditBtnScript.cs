@@ -5,7 +5,7 @@ using UnityEngine;
 public class creditBtnScript : MonoBehaviour
 {
     public void quitGame() {
-        Application.Quit();
         Debug.Log("Quit");
+        Application.Quit();
     }
 }
