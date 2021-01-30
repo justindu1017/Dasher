@@ -2538,6 +2538,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1235105880292605536, guid: a405f35f0018f5a47a7f5c67ae55a575,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.w
+      value: 5.9e-44
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235105880292605536, guid: a405f35f0018f5a47a7f5c67ae55a575,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.x
+      value: NaN
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235105880292605536, guid: a405f35f0018f5a47a7f5c67ae55a575,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235105880292605536, guid: a405f35f0018f5a47a7f5c67ae55a575,
+        type: 3}
+      propertyPath: m_BoundingSphereOverride.z
+      value: NaN
+      objectReference: {fileID: 0}
     - target: {fileID: 1235105880292605537, guid: a405f35f0018f5a47a7f5c67ae55a575,
         type: 3}
       propertyPath: m_RootOrder
@@ -2750,6 +2770,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6883042069129567585, guid: 171606f47dae8e840b4ecf70f018a430,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6883042069129567586, guid: 171606f47dae8e840b4ecf70f018a430,
         type: 3}
       propertyPath: m_RootOrder
@@ -2763,7 +2788,7 @@ PrefabInstance:
     - target: {fileID: 6883042069129567586, guid: 171606f47dae8e840b4ecf70f018a430,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5
+      value: 1.16
       objectReference: {fileID: 0}
     - target: {fileID: 6883042069129567586, guid: 171606f47dae8e840b4ecf70f018a430,
         type: 3}
@@ -2804,6 +2829,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6883042069129567589, guid: 171606f47dae8e840b4ecf70f018a430,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6883042069129567589, guid: 171606f47dae8e840b4ecf70f018a430,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6883042069129567589, guid: 171606f47dae8e840b4ecf70f018a430,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6883042069129567590, guid: 171606f47dae8e840b4ecf70f018a430,
         type: 3}
